@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/allergicone" target="blank"><img src="https://img.shields.io/twitter/follow/allergicone?logo=twitter&style=for-the-badge" alt="allergicone" /></a> </p>
 
-- 🔭 I’m currently working on [Boshka Frames](https://github.com/AsylantenAnanas/Boshka-Frames)
+- 🔭 I’m currently working on [Boshka Autoblogger](https://github.com/AsylantenAnanas/Boshka-AutoBlogger-v2) & [Boshka KI](https://github.com/AsylantenAnanas/Boshka-KI)
 
 - 🤝 I’m looking for help with [AntiMobbing.ORG](https://github.com/AsylantenAnanas/AntiMobbing.ORG)
 
